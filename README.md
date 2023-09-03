@@ -42,7 +42,7 @@ An additional feature of the Coffee Machine Simulator is "analytics," which prov
 
 To use the Coffee Machine Simulator, follow these steps:
 
-1. [Clone the repository](https://github.com/yourusername/coffee-machine-simulator.git).
+1. [Clone the repository](https://github.com/Prafullapatil766254/Coffee_Machine_Simulator_OOPs_Based.git).
 2. Open the project in your preferred programming environment.
 3. Run the application.
 
